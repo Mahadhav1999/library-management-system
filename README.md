@@ -16,8 +16,8 @@ The Library Management System is a web-based software application designed to he
 
 
 ## Links
-- GitHub URL: [GitHub URL here](https://github.com/darskp/library-management-system-react/)
-- Live Site URL: [Live site URL here](https://darskp.github.io/library-management-system-react/)
+- GitHub URL: [GitHub URL here](https://github.com/Mahadhav1999/library-management-system)
+- Live Site URL: [Live site URL here](https://library-management-system-react.netlify.app/)
 
 ## Features
 - Separate login pages for administrators and users
@@ -58,5 +58,6 @@ This Library Management System project is a work in progress and there is always
 ## Useful Resources
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces
 - [Node.js](https://nodejs.org/) - JavaScript runtime environment
+- [Material UI](https://mui.com/) - The React Component UI Library 
 - [npm](https://www.npmjs.com/) - Package manager for JavaScript
 - [JSON Server](https://github.com/typicode/json-server) - Simple JSON file-based storage for web services
