@@ -14,6 +14,8 @@
 ## Introduction
 The Library Management System is a web-based software application designed to help manage the day-to-day operations of a library. This system automates many manual processes, reducing the workload and improving efficiency. 
 
+## Screenshots
+- Demo video URL : [URL here](https://drive.google.com/file/d/13tkSNjA2pUTy-4kkssbP1b08vXMrjDmh/view?usp=sharing)
 
 ## Links
 - GitHub URL: [GitHub URL here](https://github.com/Mahadhav1999/library-management-system)
