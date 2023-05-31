@@ -17,7 +17,7 @@ The Library Management System is a web-based software application designed to he
 ## Screenshots
 - Demo video URL : [URL here](https://drive.google.com/file/d/13tkSNjA2pUTy-4kkssbP1b08vXMrjDmh/view?usp=sharing)
 
-## Links
+## Link
 - GitHub URL: [GitHub URL here](https://github.com/Mahadhav1999/library-management-system)
 - Live Site URL: [Live site URL here](https://library-management-system-react.netlify.app/)
 
